@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Avita Magus Celeron N3350 12.2, FHD Laptop Charcoal Grey",
+    "price": "30000",
+
+    "description": "Intel Celeron Processor N3350 1.10 GHz-2.40 GHz 2 MB Cache Cores: 2  12.2 TFT 1920 x 1200 Touch Display",
+    "ram": "Threads: 2 4GB RAM",
+    "rom": "64GB eMMC",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+
+    "display": "12.2 TFT 1920 x 1200 Touch Display",
+    "img": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "HP ZBook Firefly 15 G7 Core i7 10th Gen 15 FHD Mobile Workstation Laptop",
+    "price": "35000",
+
+    "description": "Intel Core i7-10510U Processor (8M Cache, 1.80 GHz up to 4.90 GHz)",
+
+    "ram": "8GB DDR4 2666MHz RAM",
+    "rom": "512GB PCIe SSD",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+    "display": "15 FHD 1920 x 1200 Touch Display",
+
+    "img": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+
+    "name": "Dell Vostro 14 3400 Core i3 11th Gen 14 HD Laptop with Windows 10",
+    "price": "32000",
+
+    "description": "Intel Core i3-1115G4 Processor (6MB Cache, 3.0 GHz up to 4.10 GHz)",
+
+    "ram": "8GB DDR4 2666MHz RAM",
+    "rom": "512GB PCIe SSD",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+    "display": "15 FHD 1920 x 1200 Touch Display",
+
+    "img": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1593642532454-e138e28a63f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+
+    "name": "Lenovo IdeaPad Slim 3i Core i3 10th Gen 14 Full HD Platinum Grey Laptop",
+    "price": "35000",
+
+    "description": "Intel Core i3-1005G1 Processor (4M Cache,1.20 GHz up to 3.40 GHz)",
+
+    "ram": "8GB DDR4 2666MHz RAM",
+    "rom": "512GB PCIe SSD",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+    "display": "14 FHD 1920 x 1200 Touch Display",
+
+    "img": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1593642532454-e138e28a63f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Avita Magus Celeron N3350 12.2 FHD Laptop Seashell Pink",
+    "price": "35000",
+
+    "description": "Intel Celeron Processor N3350 (1.10 GHz-2.40 GHz 2 MB Cache Cores: 2 Threads: 2)",
+
+    "ram": "8GB DDR4 2666MHz RAM",
+    "rom": "512GB PCIe SSD",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+    "display": "15 FHD 1920 x 1200 Touch Display",
+
+    "img": "https://images.unsplash.com/photo-1593642532454-e138e28a63f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Chuwi HeroBook Pro+ intel Celeron 13.3 3K Laptop",
+    "price": "25000",
+
+    "description": "Intel Celeron Processor J3455 (2M Cache, 1.50 GHz up to 2.3 GHz)",
+
+    "ram": "8GB DDR4 2666MHz RAM",
+    "rom": "512GB PCIe SSD",
+    "Battery": "Li-ion Battery",
+    "audio": "0.7W x 1 Speaker",
+    "display": "13 FHD 1920 x 1200 Touch Display",
+
+    "img": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img1": "https://images.unsplash.com/photo-1593642532454-e138e28a63f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "img2": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "img3": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]

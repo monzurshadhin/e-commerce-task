@@ -1,0 +1,9 @@
+.slider-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.banner-img {
+  height: 350px;
+  width: 450px;
+  /* object-fit: cover; */
+}

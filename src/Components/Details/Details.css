@@ -1,0 +1,13 @@
+.details {
+  text-align: left;
+}
+.btn-section button {
+  border: none;
+  outline: none;
+  background-color: #252c41;
+  color: white;
+  font-weight: bold;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
